@@ -1,0 +1,44 @@
+PODS:
+  - IQKeyboardManager (4.0.13)
+  - Masonry (0.6.4)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - SVProgressHUD (2.2.5)
+  - TZImagePickerController (3.1.4)
+  - YYImage (1.0.4):
+    - YYImage/Core (= 1.0.4)
+  - YYImage/Core (1.0.4)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - IQKeyboardManager (~> 4.0.0)
+  - Masonry (~> 0.6.4)
+  - SDWebImage (~> 3.7.5)
+  - SVProgressHUD (~> 2.0-beta8)
+  - TZImagePickerController (~> 3.1.4)
+  - YYImage (~> 1.0.4)
+  - YYText (~> 1.0.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - IQKeyboardManager
+    - Masonry
+    - SDWebImage
+    - SVProgressHUD
+    - TZImagePickerController
+    - YYImage
+    - YYText
+
+SPEC CHECKSUMS:
+  IQKeyboardManager: 8eab4d8111418414619d1df8e4779ce5d0f8d7e2
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  TZImagePickerController: c5d08f4f79ef3a4aa5af70c199009f59dac978a3
+  YYImage: 1e1b62a9997399593e4b9c4ecfbbabbf1d3f3b54
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: 10c5eed65e55c28d9cc41a7326380bd54e1bf29f
+
+COCOAPODS: 1.5.3

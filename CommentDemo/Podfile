@@ -1,0 +1,13 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'CommentDemo' do
+
+pod 'Masonry', '~> 0.6.4'
+pod 'SDWebImage', '~> 3.7.5'
+pod 'IQKeyboardManager', '~> 4.0.0'
+pod 'SVProgressHUD', '~> 2.0-beta8'
+pod 'YYText', '~> 1.0.1'
+pod 'YYImage', '~> 1.0.4'
+pod 'TZImagePickerController', '~> 3.1.4'
+end
